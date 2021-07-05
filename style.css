@@ -5,7 +5,7 @@
 }
 body {
   font-family: "Nunito", sans-serif;
-  font-size: 25px;
+  font-size: 20px;
 }
 h1 {
   font-size: 50px;
@@ -30,7 +30,7 @@ span {
   text-decoration: none;
   background-image: linear-gradient(to top, maroon, orange);
   color: white;
-  padding: 10px 30px;
+  padding: 15px 35px;
   font-weight: 700;
   border-radius: 25px;
   margin-top: 500px;
@@ -47,12 +47,13 @@ span {
   margin-left: 120px;
 }
 .abt-me {
-  margin-top: 50px;
+  margin-top: 70px;
 }
 .my-rcp {
   text-align: center;
   margin-left: 250px;
   margin-right: 250px;
+  font-size: 25px;
 }
 .lemon {
   width: 40%;
@@ -64,15 +65,18 @@ span {
   box-shadow: 10px 10px 40px gray;
   text-align: justify;
 }
-#recipe-1 img {
+.recipe img {
   width: 100%;
   margin-top: 15px;
 }
-#recipe-2 img {
-  width: 100%;
-  margin-top: 15px;
+#footer {
+  background-color: black;
+  text-align: center;
+  color: gray;
+  margin-top: 50px;
+  padding: 40px;
+  font-size: 30px;
 }
-#recipe-3 img {
-  width: 100%;
-  margin-top: 15px;
+small {
+  color: white;
 }
