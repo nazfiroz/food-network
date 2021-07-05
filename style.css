@@ -1,0 +1,56 @@
+.logo {
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+body {
+  font-family: "Nunito", sans-serif;
+  font-size: 25px;
+}
+h1 {
+  font-size: 50px;
+  margin-top: 55px;
+}
+span {
+  color: orange;
+}
+.container {
+  display: flex;
+  margin-bottom: 0px;
+}
+.container img {
+  width: 95%;
+  margin-bottom: 0px;
+}
+.item {
+  width: 50%;
+  padding: 40px;
+}
+.button {
+  text-decoration: none;
+  background-image: linear-gradient(to top, maroon, orange);
+  color: white;
+  padding: 10px 30px;
+  font-weight: 700;
+  border-radius: 25px;
+  margin-top: 500px;
+}
+
+.bg-img {
+  background-image: url(images/foodnet-back.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+#girl {
+  width: 71%;
+  margin-left: 120px;
+}
+.abt-me {
+  margin-top: 50px;
+}
+.my-rcp {
+  text-align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+}
