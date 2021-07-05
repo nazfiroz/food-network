@@ -54,3 +54,25 @@ span {
   margin-left: 250px;
   margin-right: 250px;
 }
+.lemon {
+  width: 40%;
+  margin-left: 1%;
+  margin-right: 2%;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 20px;
+  box-shadow: 10px 10px 40px gray;
+  text-align: justify;
+}
+#recipe-1 img {
+  width: 100%;
+  margin-top: 15px;
+}
+#recipe-2 img {
+  width: 100%;
+  margin-top: 15px;
+}
+#recipe-3 img {
+  width: 100%;
+  margin-top: 15px;
+}
