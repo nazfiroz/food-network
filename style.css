@@ -83,7 +83,7 @@ small {
 #cuisine {
   text-align: center;
   color: green;
-  background-color: rgb(216, 216, 216);
+  background-color: rgba(151, 150, 150, 0.096);
   padding-top: 5px;
   padding-bottom: 30px;
 }
